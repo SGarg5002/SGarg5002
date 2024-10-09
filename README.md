@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Simran Garg!
-- 👀 I’m interested in engineering.
-- 🌱 I’m currently learning to code in Java and play the piano.
-- 💞️ I’m looking to collaborate on projects in my school Robotics team!
 - 📫 How to reach me: Email me at simgarg2008@gmail.com
 
 <!---
